@@ -1,4 +1,4 @@
-name: Push JSON Files to S3
+name: Push JSON Files
 on:
   push:
     branches: [ "master" ]
